@@ -16,6 +16,15 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+# Plugins used this project (android/Ios/web)
 
+  google_maps_flutter: ^2.12.2
+  google_maps_flutter_web: ^0.5.12
+  geolocator: ^14.0.1
+  permission_handler: ^12.0.0+1
+  flutter_bloc: ^9.1.1
+  connectivity_plus: ^6.1.4
 
-// api key -- AIzaSyCQw1H5ig4fO9_opbA0xKJQGpKoI0O_hiw
+# 
+
+  
